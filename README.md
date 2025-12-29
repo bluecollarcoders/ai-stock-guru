@@ -67,4 +67,4 @@ Using AI Gateway Caching to reduce API costs and latency.
    ```
 
 ## Website
-[text](https://ai-stock-guru.pages.dev/)
+[ai-stock-guru.pages.dev](https://ai-stock-guru.pages.dev/)
