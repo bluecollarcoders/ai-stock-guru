@@ -22,3 +22,8 @@ Thumbs.db
 *.suo
 *.ntvs*
 *.njsproj
+
+# Cloudflare / Wrangler
+**/.wrangler/
+.dev.vars
+wrangler.toml.local
