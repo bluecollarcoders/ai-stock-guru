@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+dist/
+
+# Local Environment Secrets
+.env
+.env.local
+.env.*.local
+
+# Cloudflare / Wrangler
+.wrangler/
+.dev.vars
+wrangler.toml.local
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
